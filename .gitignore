@@ -3,4 +3,5 @@ pending/*
 results/*
 !models/README.md
 !pending/README.md
+!pending/Sample.png
 !results/README.md
