@@ -1,0 +1,4 @@
+openvino
+python==3.9
+numpy
+matplotlib

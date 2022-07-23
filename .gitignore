@@ -1,0 +1,6 @@
+models/*
+pending/*
+results/*
+!models/README.md
+!pending/README.md
+!results/README.md
