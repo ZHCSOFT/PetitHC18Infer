@@ -230,4 +230,4 @@ if __name__ == '__main__':
         skullThickness = m_maskProc.getSkullThicknessByMask(predSkullMask)
         axisResult = m_maskProc.drawEllipseAxis(pendingImg, ellipse, skullThickness)
 
-        cv2.imwrite(save_path+'/visualize'+os.path.basename(pendingFile), axisResult)
+        cv2.imwrite(save_path+'/visualize/'+os.path.basename(pendingFile), axisResult)
